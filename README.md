@@ -4,6 +4,7 @@ This is a progress indicator I use in almost every vue/nuxt project of mine.
 
 ### Issues:
 If you have any issues, don't bombard my dms on discord, I'm not using it.
+
 Just create a new issue [right here](https://github.com/SilentJungle399/Progress-indicator/issues) like a gentleman.
 
 ## Vue:
