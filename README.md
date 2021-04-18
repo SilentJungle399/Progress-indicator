@@ -2,6 +2,10 @@
 
 This is a progress indicator I use in almost every vue/nuxt project of mine.
 
+### Prerequisites:
+- This repo is only useful for vue/nuxt projects. ~~I just wrote above are u blind~~
+- Install [NProgress](https://www.npmjs.com/package/nprogress) using `npm i nprogress`.
+
 ### Issues:
 If you have any issues, don't bombard my dms on discord, I'm not using it.
 
