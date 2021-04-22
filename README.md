@@ -52,3 +52,6 @@ this.$load.start('page')
 // Cus obv since you started it, so you need to end the indicator when whatever was loading has been loaded.
 this.$load.done()
 ```
+
+## Note:
+You don't necessarily have to use the loading indicator I added, I used it because I liked it the most, there are more indicators available at [this website](https://tobiasahlin.com/spinkit/), you can modify the code to adapt to whichever indicator you liked the most, **only if you know what you're doing**. Don't shout at me in issues section if you break your code.
