@@ -31,7 +31,7 @@ export default {
     },
 
     plugins: [
-        {src: "~/plugins/nprogress.js"}
+        {src: "~/plugins/progress.js"}
     ]
 }
 ```
