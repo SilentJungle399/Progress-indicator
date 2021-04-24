@@ -26,7 +26,7 @@ export default {
     head: {
         link: [
             { rel: 'stylesheet', type: 'text/css', href: '/nprogress.css' },
-            { rel: 'stylesheet', type: 'text/css', href: '/loadingIndic.css' }
+            { rel: 'stylesheet', type: 'text/css', href: '/loadIndicator.css' }
         ]
     },
 
